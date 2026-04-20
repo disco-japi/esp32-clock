@@ -1,4 +1,4 @@
-Proyecto con propositos demostrativos y educativos
+# Proyecto con propositos demostrativos y educativos
 
 Reloj analogico y digital creado haciendo uso de:
 - ESP32
